@@ -1,0 +1,30 @@
+.box1 {
+width: 30px;
+border: 5px solid green;
+margin: 50px 0 0 50px;
+float: left;
+padding: 30px;
+}
+.box2 {
+width: 30px;
+border: 5px solid green;
+margin: 50px 0 0 10px;
+float: left;
+padding: 30px;
+}
+.box3 {
+width: 30px;
+border: 5px solid green;
+margin: 50px 0 0 10px;
+float: left;
+padding: 30px;
+}
+.but1{
+  margin: 150px 0 0 -320px;
+}
+.but2{
+  margin: 150px 0 0 10px;
+}
+.but3{
+  margin: 150px 0 0 20px;
+}
